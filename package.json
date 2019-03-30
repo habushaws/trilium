@@ -69,7 +69,7 @@
     "electron-compile": "6.4.3",
     "electron-packager": "13.0.1",
     "electron-rebuild": "1.8.2",
-    "lorem-ipsum": "1.0.6",
+    "lorem-ipsum": "2.0.1",
     "tape": "4.9.1",
     "xo": "0.23.0"
   },
